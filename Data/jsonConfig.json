@@ -1,0 +1,12 @@
+{
+    "Config": [
+        {
+            "JsonName": "get",
+            "Method": "get"
+        },
+        {
+            "JsonName": "post",
+            "Method": "post"
+        }
+    ]
+}
